@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = robin.dumont@kedgebs.com
+	name = Robin Dumont
